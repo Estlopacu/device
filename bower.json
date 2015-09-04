@@ -1,0 +1,14 @@
+{
+  "name": "devicecontrol",
+  "version": "0.0.0",
+  "authors": [
+    "Esteban Lopez <llopez@konradgroup.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.3"
+  },
+  "overrides": {
+    "js": "angular.js"
+  }
+}
